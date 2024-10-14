@@ -6,14 +6,6 @@ import {
   Row,
   Typography,
 } from "antd";
-import {
-  Navigation,
-  Banner,
-  About,
-  Skill,
-  Project,
-  Footer,
-} from "../Section/index";
 import { useEffect, useState } from "react";
 import {
   ArrowRightOutlined,
