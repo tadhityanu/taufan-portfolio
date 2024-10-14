@@ -1,0 +1,34 @@
+.ant-btn-dark-primary {
+  background-color: #202d6f !important;
+  color: #ffffff;
+  padding: 24px 57px 24px 57px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Shadow effect */
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease; /* Transition for background, text color, and transform */
+}
+.ant-btn-light-blue {
+  background-color: #466dcf !important;
+  color: #ffffff;
+  padding: 24px 57px 24px 57px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Shadow effect */
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease; /* Transition for background, text color, and transform */
+}
+
+/* EFFECT */
+.ant-btn-dark-primary:hover {
+  background-color: #202d6f !important;
+  color: #ffffff;
+  padding: 24px 57px 24px 57px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Shadow effect */
+  transform: scale(1.1); /* Zoom in effect */
+}
+.ant-btn-light-blue:hover {
+  background-color: #466dcf !important;
+  color: #ffffff;
+  padding: 24px 57px 24px 57px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Shadow effect */
+  transform: scale(1.1); /* Zoom in effect */
+}

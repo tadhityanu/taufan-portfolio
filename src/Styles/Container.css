@@ -1,0 +1,36 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1200px;
+}
+.shadow-effect {
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+}
+.shadow-effect:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 1);
+  transform: scale(0.9);
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+}
+.zoom-in {
+  border-radius: 12px;
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+}
+.zoom-in:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 1);
+  transform: scale(1.05);
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+}
+.box-effect {
+  padding: 12px;
+  border-radius: 16px;
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+}
+.box-effect:hover {
+  padding: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 1);
+  transform: scale(1.1);
+  border-radius: 16px;
+  transition: box-shadow 0.7s ease, transform 0.7s ease;
+  cursor: pointer;
+}

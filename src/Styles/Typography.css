@@ -1,0 +1,62 @@
+
+.ant-typography{
+    font-family: "Viga", sans-serif;
+}
+
+ /* DARK BLUE */
+.ant-typography-dark-blue-18-600{
+    color: #141C47 !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+.ant-typography-dark-blue-32-600{
+    color: #141C47 !important;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+/* WHITE */
+.ant-typography-light-white-24-400{
+    font-family: "Voces", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.ant-typography-White-18-600{
+    color: #ffff !important;
+    font-size: 18px;
+    font-weight: 600;
+}
+.ant-typography-White-18-300{
+    color: #ffff !important;
+    font-size: 18px;
+    font-weight: 300;
+}
+.ant-typography-White-16-500{
+    color: #ffff !important;
+    font-size: 16px;
+    font-weight: 500;
+}
+.ant-typography-White-40-600{
+    color: #ffff !important;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Viga", sans-serif;
+}
+.ant-typography-White-38-600{
+    color: #ffff !important;
+    font-size: 38px;
+    font-weight: 500;
+    font-family: "Viga", sans-serif;
+}
+.ant-typography-White-50-600{
+    color: #ffff !important;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Viga", sans-serif;
+}
+.ant-typography-White-70-600{
+    color: #ffff !important;
+    font-size: 70px;
+    font-weight: 600;
+    font-family: "Viga", sans-serif;
+}
